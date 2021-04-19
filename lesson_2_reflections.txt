@@ -1,0 +1,6 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+—- A new repository is created with no commits. Initialize has to be run to create the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+—- The staging area is a transition space for files that will be moved to the repository. This allows several documents or files to be grouped together before being put in the repository to allow logical changes to happen across multiple documents.
